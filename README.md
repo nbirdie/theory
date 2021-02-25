@@ -31,5 +31,5 @@ $ source venv/bin/activate
 3. 
 Зайдите в настройки VSC: File (или Code на macOS) > Preferences > Settings. Переключитесь на закладку Workspace. В строке поиска введите имя ключа конфигурации python.pythonPath и укажите значение:
 
-4. (Официальное руководство по настройке Visual Studio Code для Python)[https://code.visualstudio.com/docs/python/environments]
+4. [Официальное руководство по настройке Visual Studio Code для Python](https://code.visualstudio.com/docs/python/environments)
 

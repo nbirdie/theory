@@ -16,10 +16,10 @@
 ## Python scripts
 1. Virtual environment
 ```
-#create folder with virtual environment  
+# create folder with virtual environment  
 $ python3 -m venv venv  
-#activate it with the subfolder venv/bin  
+# activate it with the subfolder venv/bin  
 $ source venv/bin/activate  
-#deactivate virtual environment   
+# deactivate virtual environment   
 (venv) $ deactivate
 ```

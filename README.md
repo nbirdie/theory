@@ -23,3 +23,8 @@ $ source venv/bin/activate
 # deactivate virtual environment   
 (venv) $ deactivate
 ```
+2. Installing packages
+```
+# pip manager install me (if u dont mind) Django version 2.2  
+(venv) $ pip install Django==2.2  
+```

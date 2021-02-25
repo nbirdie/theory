@@ -1,14 +1,14 @@
 # Theory
-___
+__
 ## Terminal
 1. Copy the contents of a folder to another folder in a different directory  
 `cp -a libft/. printf`
 2. Delete folder 
 `rm -r ___`
-___
+__
 ## Markdown
 1. [Шпаргалка по Markdown](http://bustep.ru/markdown/shpargalka-po-markdown.html)  
-___
+__
 ## Python scripts
 1. Virtual environment
 ```

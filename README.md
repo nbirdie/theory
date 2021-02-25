@@ -28,8 +28,10 @@ $ source venv/bin/activate
 # pip manager install me (if u dont mind) Django version 2.2  
 (venv) $ pip install Django==2.2  
 ```
-3. 
-Зайдите в настройки VSC: File (или Code на macOS) > Preferences > Settings. Переключитесь на закладку Workspace. В строке поиска введите имя ключа конфигурации python.pythonPath и укажите значение:
+3. VS Code settings
+VSC: File (or Code on macOS) > Preferences > Settings.  
+Go to tab Workspace.  
+Type in finder "python.pythonPath" and type this to Python:Python Path:."/venv/bin/python"
 
-4. [Официальное руководство по настройке Visual Studio Code для Python](https://code.visualstudio.com/docs/python/environments)
+4. [Using Python environments in VS Code](https://code.visualstudio.com/docs/python/environments)
 
